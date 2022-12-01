@@ -17,6 +17,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@vue/compiler-dom": "^3.2.45",
     "axios": "^0.17.1",
     "cheerio": "^1.0.0-rc.2",
     "cssom": "^0.3.2",
